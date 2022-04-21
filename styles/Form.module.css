@@ -1,0 +1,31 @@
+.containerFormArea {
+    background-color: white;
+    box-shadow: 0 0 5px silver;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.containerInput {
+    margin: 10px;
+}
+
+.containerInput input {
+    padding: 5px;
+}
+
+.containerInput select {
+    padding: 5px;
+}
+
+.containerInput button {
+    margin-top: 15px;
+    padding: 8px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}

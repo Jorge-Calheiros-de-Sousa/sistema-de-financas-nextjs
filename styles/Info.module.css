@@ -1,0 +1,48 @@
+.containerInfoArea {
+    background-color: white;
+    box-shadow: 0 0 5px silver;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: -40px;
+    display: flex;
+    align-items: center;
+}
+
+.monthArea {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.monthText {
+    flex: 1;
+    text-align: center;
+}
+
+.monthArrow {
+    width: 90px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.resumeArea {
+    flex: 2;
+    display: flex;
+}
+
+.containerResumeItem {
+    flex: 1;
+}
+
+.resumeItemTitle {
+    text-align: center;
+    font-weight: bold;
+    color: #888;
+    margin-bottom: 5px;
+}
+
+.resumeItemInfo {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}

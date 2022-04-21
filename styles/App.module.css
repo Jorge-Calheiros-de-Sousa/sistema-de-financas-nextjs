@@ -1,0 +1,44 @@
+.header {
+    background-color: darkblue;
+    height: 150px;
+    text-align: center;
+}
+
+.h1 {
+    color: white;
+    margin: 0;
+    padding: 0;
+    padding-top: 30px
+}
+
+.body {
+    margin: auto;
+    max-width: 980px;
+    margin-bottom: 50px
+}
+
+.table {
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 5px silver;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.table td {
+    padding: 10px 0;
+}
+
+.th {
+    padding: 10px 0;
+    text-align: left;
+}
+
+
+.tdCategoria {
+    display: inline-block;
+    padding: 5px 10px !important;
+    color: white;
+    border-radius: 5px;
+}
